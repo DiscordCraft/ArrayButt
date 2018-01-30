@@ -1,0 +1,14 @@
+{
+  "name": "ArrayButt",
+  "version": "1.0.0",
+  "description": "a bad discord bot",
+  "main": "index.js",
+  "repository": "https://github.com/phantamanta44/ArrayButt.git",
+  "author": "phantamanta44",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "eris": "^0.8.2",
+    "needle": "^2.1.0"
+  }
+}
